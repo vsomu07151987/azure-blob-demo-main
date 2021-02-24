@@ -62,8 +62,8 @@
         <version>1.9.1</version>  
         <configuration> 
           <schemaVersion>V2</schemaVersion>  
-          <resourceGroup>Regroup_8tud</resourceGroup>  
-          <appName>azure-blob-demo-shankar</appName>  
+          <resourceGroup>Regroup_0eau</resourceGroup>  
+          <appName>azure-blob-demo-shailaja</appName>  
           <pricingTier>B1</pricingTier>  
           <region>westus</region>  
           <runtime> 
